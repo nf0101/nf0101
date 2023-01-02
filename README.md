@@ -6,5 +6,3 @@ I'm studying computer science at the University of Salerno, in Italy. I'll add m
 ![](https://komarev.com/ghpvc/?username=nf0101&color=blue)
 ### Links
 <a href="https://www.linkedin.com/in/nicola-frugieri-7237561b8/"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="3%"> </img> <a/>
-
-
